@@ -7,8 +7,8 @@ class Dog
   def breed(mutt)
     @breed = mutt
   end 
+end 
 
-Dog.new 
+fido = Dog.new 
 dog.breed = "mutt"
-end 
-end 
+end
