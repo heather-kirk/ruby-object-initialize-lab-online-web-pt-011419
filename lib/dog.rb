@@ -8,3 +8,6 @@ class Dog
     @breed = mutt
   end 
 end 
+
+Dog.new 
+dog.breed = "mutt"
