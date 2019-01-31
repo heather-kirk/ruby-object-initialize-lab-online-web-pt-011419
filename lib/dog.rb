@@ -3,6 +3,5 @@ class Dog
     @name = name 
     @breed = breed 
   end 
-  
-  breed("Mutt")
+  4
 end 
