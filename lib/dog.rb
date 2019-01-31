@@ -8,7 +8,3 @@ class Dog
     @breed = mutt
   end 
 end 
-
-fido = Dog.new 
-dog.breed = "mutt"
-end
